@@ -1,5 +1,5 @@
-
 ## VARIAVEIS
+
 [x] 1. Declare uma variável chamada `nome` e atribua seu próprio nome a ela.
 [x] 2. Crie duas variáveis numéricas e realize a soma entre elas, armazenando o resultado em uma terceira variável.
 [x] 3. Utilize a palavra-chave `let` para declarar uma variável e atribuir um valor a ela.
@@ -21,9 +21,8 @@
 [x] 19. Crie uma variável e atribua a ela um array vazio, depois adicione elementos a esse array.
 [x] 20. Utilize uma variável para armazenar o comprimento de uma string.
 
-
-
 ## STRINGS
+
 [x] 1. Crie uma string com o seu nome.
 [x] 2. Concatene duas strings diferentes.
 [x] 3. Extraia os primeiros 5 caracteres de uma string.
@@ -45,33 +44,30 @@
 [x] 19. Converta uma string para um array de caracteres.
 [x] 20. Verifique se uma string contém apenas números.
 
-
-
 ## NUMBERS
-[] 1. Declare uma variável `numero` e atribua a ela um valor numérico.
-[] 2. Realize a adição de dois números e armazene o resultado em uma variável.
-[] 3. Utilize a função `Math.random()` para gerar um número aleatório entre 0 e 1.
-[] 4. Declare uma constante `PI` e atribua a ela o valor de PI.
-[] 5. Converta uma string que representa um número para um tipo numérico.
-[] 6. Utilize a função `Math.round()` para arredondar um número decimal.
-[] 7. Calcule a raiz quadrada de um número usando a função `Math.sqrt()`.
-[] 8. Crie uma função que retorne um número aleatório em um intervalo específico.
-[] 9. Utilize a função `Math.floor()` para arredondar para baixo um número decimal.
-[] 10. Declare uma variável `idade` e verifique se é um número usando `typeof`.
-[] 11. Converta um número para uma string usando o método `toString()`.
-[] 12. Realize uma operação de multiplicação entre um número e uma string que representa um número.
-[] 13. Utilize a função `parseFloat()` para converter uma string em um número decimal.
-[] 14. Declare um número decimal e utilize `Math.ceil()` para arredondar para cima.
-[] 15. Calcule a porcentagem de um número em relação a outro.
-[] 16. Crie uma função que receba dois números como parâmetros e retorne a diferença entre eles.
-[] 17. Utilize a função `parseInt()` para converter uma string em um número inteiro.
-[] 18. Declare uma constante representando a velocidade da luz e realize uma operação matemática com ela.
-[] 19. Implemente uma função que retorne verdadeiro se um número for positivo, falso caso contrário.
-[] 20. Crie uma variável `idadeUsuario` e atribua a ela um valor digitado pelo usuário (utilize `prompt`), certificando-se de converter para um número.
 
-
+[x] 1. Declare uma variável `numero` e atribua a ela um valor numérico.
+[x] 2. Realize a adição de dois números e armazene o resultado em uma variável.
+[x] 3. Utilize a função `Math.random()` para gerar um número aleatório entre 0 e 1.
+[x] 4. Declare uma constante `PI` e atribua a ela o valor de PI.
+[x] 5. Converta uma string que representa um número para um tipo numérico.
+[x] 6. Utilize a função `Math.round()` para arredondar um número decimal.
+[x] 7. Calcule a raiz quadrada de um número usando a função `Math.sqrt()`.
+[x] 8. Crie uma função que retorne um número aleatório em um intervalo específico.
+[x] 9. Utilize a função `Math.floor()` para arredondar para baixo um número decimal.
+[x] 10. Declare uma variável `idade` e verifique se é um número usando `typeof`.
+[x] 11. Converta um número para uma string usando o método `toString()`.
+[x] 12. Realize uma operação de multiplicação entre um número e uma string que representa um número.
+[x] 13. Utilize a função `parseFloat()` para converter uma string em um número decimal.
+[x] 14. Declare um número decimal e utilize `Math.ceil()` para arredondar para cima.
+[x] 15. Calcule a porcentagem de um número em relação a outro.
+[x] 16. Crie uma função que receba dois números como parâmetros e retorne a diferença entre eles.
+[x] 17. Utilize a função `parseInt()` para converter uma string em um número inteiro.
+[x] 18. Declare uma constante representando a velocidade da luz e realize uma operação matemática com ela.
+[x] 19. Implemente uma função que retorne verdadeiro se um número for positivo, falso caso contrário.
 
 ## ARRAY
+
 [] 1. Crie um array vazio chamado `lista`.
 [] 2. Adicione cinco elementos ao array `lista`.
 [] 3. Acesse o terceiro elemento do array `lista`.
@@ -93,9 +89,8 @@
 [] 19. Concatene dois arrays diferentes usando o método `concat`.
 [] 20. Remova o último elemento de um array e armazene-o em uma variável.
 
-
-
 ## FUNÇÕES
+
 [] 1. Crie uma função simples que exiba "Olá, mundo!" no console.
 [] 2. Escreva uma função que receba dois números como parâmetros e retorne a soma deles.
 [] 3. Implemente uma função que calcule o quadrado de um número.
@@ -117,9 +112,8 @@
 [] 19. Implemente uma função que aceite um array de objetos e retorne um novo array com apenas os objetos que possuem uma determinada propriedade.
 [] 20. Escreva uma função que receba um número e retorne uma função que, quando chamada, retorne o dobro desse número.
 
-
-
 ## OBJETOS
+
 [] 1. Crie um objeto chamado `pessoa` com propriedades como nome, idade e cidade.
 [] 2. Adicione uma nova propriedade ao objeto `pessoa` representando a profissão.
 [] 3. Acesse e exiba a idade da pessoa.
