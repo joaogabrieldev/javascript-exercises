@@ -1,1 +1,0 @@
-// 20. Crie uma variável `idadeUsuario` e atribua a ela um valor digitado pelo usuário (utilize `prompt`), certificando-se de converter para um número.
