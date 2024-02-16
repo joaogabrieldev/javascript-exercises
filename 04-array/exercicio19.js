@@ -1,2 +1,1 @@
-
-// 19. Concatene dois arrays diferentes usando o método `concat`.
+// 19. Criar um array com números e verificar se todos os números são positivos.

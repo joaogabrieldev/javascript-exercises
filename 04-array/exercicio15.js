@@ -1,2 +1,1 @@
-
-// 15. Crie um array de objetos representando pessoas (com propriedades como nome e idade).
+// 15. Criar um array com nomes de cores e verificar se "azul" está presente.

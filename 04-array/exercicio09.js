@@ -1,2 +1,6 @@
+// 9. Criar um array com 5 nomes e adicionar um novo nome na segunda posição, mantendo os nomes anteriores.
 
-// 9. Inverta a ordem dos elementos em `listaCompleta`.
+let nomes = ["Joao", "Gabriel", "Mel", "Maria", "Sophia"];
+
+nomes.splice(1, 0, "Arthur");
+console.log(nomes);

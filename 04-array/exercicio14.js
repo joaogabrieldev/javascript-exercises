@@ -1,2 +1,1 @@
-
-// 14. Crie um array de números e ordene-o de forma decrescente.
+// 14. Criar um array com 5 números e calcular a média deles.

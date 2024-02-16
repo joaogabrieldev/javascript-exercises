@@ -1,2 +1,1 @@
-
-// 13. Crie um array de strings e ordene-o alfabeticamente.
+// 13. Criar dois arrays, um com números pares e outro com números ímpares, e depois unir em um único array.

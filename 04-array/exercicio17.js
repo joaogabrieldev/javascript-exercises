@@ -1,2 +1,1 @@
-
-// 17. Encontre a primeira ocorrência de um número maior que 5 no array de números.
+// 17. Criar um array com 3 números e substituir o segundo número por 10.

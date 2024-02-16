@@ -1,2 +1,1 @@
-
-// 11. Retorne uma nova array contendo apenas os elementos pares de `listaCompleta`.
+// 11. Criar um array com números aleatórios e exibir o maior e o menor número.

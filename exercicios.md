@@ -68,26 +68,27 @@
 
 ## ARRAY
 
-[] 1. Crie um array vazio chamado `lista`.
-[] 2. Adicione cinco elementos ao array `lista`.
-[] 3. Acesse o terceiro elemento do array `lista`.
-[] 4. Modifique o valor do segundo elemento do array `lista`.
-[] 5. Remova o quarto elemento do array `lista`.
-[] 6. Verifique o comprimento atual do array `lista`.
-[] 7. Crie um novo array chamado `frutas` com três frutas.
-[] 8. Concatene os arrays `lista` e `frutas` em um novo array chamado `listaCompleta`.
-[] 9. Inverta a ordem dos elementos em `listaCompleta`.
-[] 10. Verifique se 'Banana' está presente em `listaCompleta`.
-[] 11. Retorne uma nova array contendo apenas os elementos pares de `listaCompleta`.
-[] 12. Some todos os elementos numéricos em `listaCompleta`.
-[] 13. Crie um array de strings e ordene-o alfabeticamente.
-[] 14. Crie um array de números e ordene-o de forma decrescente.
-[] 15. Crie um array de objetos representando pessoas (com propriedades como nome e idade).
-[] 16. Filtrar pessoas com idade superior a 30 anos no array de objetos.
-[] 17. Encontre a primeira ocorrência de um número maior que 5 no array de números.
-[] 18. Substitua todos os elementos negativos em um array por zero.
-[] 19. Concatene dois arrays diferentes usando o método `concat`.
-[] 20. Remova o último elemento de um array e armazene-o em uma variável.
+[x] Crie um array vazio e adicione os números de 1 a 5 a ele usando o método push().
+[x] Crie um array com os dias da semana e exiba apenas o terceiro dia.
+[x] Crie um array com 5 nomes e exiba o primeiro e o último nome.
+[x] Crie um array com 3 números e calcule a soma deles.
+[x] Crie um array com 5 frutas e exiba-as em ordem alfabética.
+[x] Crie um array com 4 números e multiplique cada número por 2, exibindo o resultado.
+[x] Crie um array com números de 1 a 10 e remova todos os números pares.
+[x] Crie um array com 6 números e ordene-os em ordem decrescente.
+[] Crie um array com 5 nomes e adicione um novo nome na segunda posição, mantendo os nomes anteriores.
+[] Crie um array com 7 números e exiba apenas os números maiores que 5.
+[] Crie um array com números aleatórios e exiba o maior e o menor número.
+[] Crie um array com 4 nomes e remova o terceiro nome.
+[] Crie dois arrays, um com números pares e outro com números ímpares, e depois una-os em um único array.
+[] Crie um array com 5 números e calcule a média deles.
+[] Crie um array com nomes de cores e verifique se "azul" está presente.
+[] Crie um array com 5 palavras e concatene todas em uma única string, separadas por espaço.
+[] Crie um array com 3 números e substitua o segundo número por 10.
+[] Crie um array com nomes de cidades e adicione mais uma cidade ao final do array.
+[] Crie um array com números e verifique se todos os números são positivos.
+[] Crie um array com 6 números e substitua os 3 primeiros números pelos números 1, 2 e 3, respectivamente.
+
 
 ## FUNÇÕES
 

@@ -1,2 +1,1 @@
-
-// 12. Some todos os elementos numéricos em `listaCompleta`.
+// 12. Criar um array com 4 nomes e remover o terceiro nome.

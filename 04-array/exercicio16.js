@@ -1,2 +1,1 @@
-
-// 16. Filtrar pessoas com idade superior a 30 anos no array de objetos.
+// 16. Criar um array com 5 palavras e concatená-las em uma única string, separadas por espaço.

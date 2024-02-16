@@ -1,2 +1,1 @@
-
-// 20. Remova o último elemento de um array e armazene-o em uma variável.
+// 20. Criar um array com 6 números e substituir os 3 primeiros números pelos números 1, 2 e 3, respectivamente.
